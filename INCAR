@@ -1,0 +1,18 @@
+SYSTEM  =   Opt
+
+ISYM    =   2
+ISPIN   =   1
+PREC    =   Normal
+
+ENCUT   =   450
+EDIFF   =   1E-04
+EDIFFG  =   -0.03
+
+LREAL   =   Auto
+LWAVE   =  .FALSE.
+LCHARG  =  .FALSE.
+
+NSW     =  999
+IBRION  =  2
+
+GGA     = RP
